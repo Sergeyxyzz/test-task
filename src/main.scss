@@ -1,0 +1,26 @@
+@import './shared/styles/global-fonts.scss';
+@import './shared/styles/themes.scss';
+
+body {
+  font-family: 'PTSans-Regular', sans-serif;
+  margin: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+button {
+  margin: 0;
+  border: 0;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+a {
+  cursor: pointer;
+  color: var(--link-color);
+  transition: color 0.3s ease;
+}
