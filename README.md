@@ -1,3 +1,4 @@
+# https://test-task-sand-phi.vercel.app/
 # About the Project
 
 This project serves as a test assignment for Company N, showcasing various aspects of modern web development using React, Redux, and TypeScript. Below is a detailed description of the project's structure and functionality.
